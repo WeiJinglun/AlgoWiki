@@ -27,3 +27,34 @@
 | String             | weijinglun |          |
 | UnionFind          |            |          |
 |                    |            |          |
+
+
+代码块示例
+<!-- tabs:start -->
+
+#### **java**
+
+```java
+class Solution {
+    // 测试代码
+}
+```
+
+#### **python**
+
+```python
+class Solution:
+    # 测试代码
+```
+
+#### **C++**
+
+```cpp
+class Solution {
+		// 测试代码
+};
+```
+
+
+
+<!-- tabs:end -->
